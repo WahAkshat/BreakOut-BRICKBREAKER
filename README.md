@@ -1,3 +1,3 @@
 # BreakOut-Brickbreaker
-BrickBreaker Game
+BrickBreaker Game <br>
 Made with Java AWT
